@@ -20,4 +20,4 @@ Praticar construção de layouts reais, responsividade e organização de códig
 assets/images/preview.png
 
 ## 🔗 Acesse o projeto
-(link do GitHub Pages depois)
+https://github.com/LupinCA/ordinly-landing-page
